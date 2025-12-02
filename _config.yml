@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Shenzhen, China"
 site_theme               : "default"
-title                    : "Jinrui Xu 徐锦锐"
+title                    : 🧠💫🤖 # "Jinrui Xu 徐锦锐"
 title_separator          : "-"
 name                     : &name "Jinrui Xu"
 description              : &description "personal description"
