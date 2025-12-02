@@ -24,10 +24,6 @@ redirect_from:
 - *2025.11* 💥 One Paper <b>(1st Author)</b> submitted to <a href="https://cvpr.thecvf.com/Conferences/2026">CVPR 2026</a>, hoping for a good result!
 
 - <div style="margin-bottom: 10px;">
-  <i>2024.08</i> 🧠&nbsp; Participated in 
-  <a href="https://cibr.ac.cn/#/home?lang=zh" target="_blank" style="text-decoration:none; color:#0077B5; font-weight:bold;">CIBR</a>-
-  <a href="https://cns.org.cn/" target="_blank" style="text-decoration:none; color:#0077B5; font-weight:bold;">CLS</a>-
-  <a href="https://mcgovern.life.tsinghua.edu.cn/" target="_blank" style="text-decoration:none; color:#0077B5; font-weight:bold;">IDG</a> 
-  Joint International Summer School in Neuroscience.
-
+  <i>2024.08</i> 🧠&nbsp; Participated in <a href="https://cibr.ac.cn/#/home?lang=zh">CIBR</a>-<a href="https://cns.org.cn/">CLS</a>-<a href="https://mcgovern.life.tsinghua.edu.cn/>IDG</a> Joint International Summer School in Neuroscience.
+</div>
 
