@@ -29,4 +29,5 @@ redirect_from:
   <a href="https://cns.org.cn/" target="_blank" style="text-decoration:none; color:#0077B5; font-weight:bold;">CLS</a>-
   <a href="https://mcgovern.life.tsinghua.edu.cn/" target="_blank" style="text-decoration:none; color:#0077B5; font-weight:bold;">IDG</a> 
   Joint International Summer School in Neuroscience.
-</div>
+
+
