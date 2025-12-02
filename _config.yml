@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile1.jpg"
   name             : "Jinrui Xu 徐锦锐"
   pronouns         : # example: "he/him"  
   bio              : "Fourth-year undergraduate student at HITSZ"
