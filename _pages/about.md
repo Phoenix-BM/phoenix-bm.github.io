@@ -12,7 +12,7 @@ redirect_from:
 </div>
 
 <div style="margin-bottom: -1px;">
-🧩 My research interests lie at the intersection of <b>NeuroAI</b>, <b>Generative Models</b>, and <b>Multimodal Learning</b>.
+🧩 My research interests fucos on <b>NeuroAI</b>, <b>Generative Models</b>, and <b>Multimodal Learning</b>.
 </div>
 
 <div>
