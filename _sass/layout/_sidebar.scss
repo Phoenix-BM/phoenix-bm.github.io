@@ -157,6 +157,27 @@
   }
 }
 
+.sidebar .author__motto {
+  display: grid;
+  margin: 0.4em 0 1em;
+  font-style: italic;
+
+  > span {
+    grid-area: 1 / 1;
+  }
+
+  > [aria-hidden="true"]::after {
+    content: "";
+    border-right: 1px solid currentColor;
+    margin-left: 0.12em;
+    animation: author-motto-caret 1s step-end infinite;
+  }
+}
+
+@keyframes author-motto-caret {
+  50% { opacity: 0; }
+}
+
 .author__urls-wrapper {
   position: relative;
   display: table-cell;
