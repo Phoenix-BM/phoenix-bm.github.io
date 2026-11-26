@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a first-year Ph.D. student at [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), supervised by [Prof. Li Jiang](https://llijiang.github.io/). Before joining CUHK-SZ, I received my bachelor’s degree from [Harbin Institute of Technology, Shenzhen (HIT-SZ)](https://www.hitsz.edu.cn/index.html), where I was advised by [Prof. Zhenxi Song](https://homepage.hit.edu.cn/songzhenxi) and [Prof. Zhuotao Tian](https://homepage.hit.edu.cn/zhuotaotian).
+I’m a first-year Ph.D. student at [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), supervised by [Prof. Li Jiang](https://llijiang.github.io/). Before joining CUHK-SZ, I received my bachelor’s degree from [Harbin Institute of Technology, Shenzhen (HIT-SZ)](https://www.hitsz.edu.cn/index.html) in 2026, advised by [Prof. Zhenxi Song](https://homepage.hit.edu.cn/songzhenxi) and [Prof. Zhuotao Tian](https://homepage.hit.edu.cn/zhuotaotian).
 
 My research interests lie in computer vision and artificial intelligence, with a focus on **multimodal generation** and **world models**.
 
