@@ -19,8 +19,33 @@
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
     {% if page.permalink == "/" %}
-      <p class="author__motto"><span>Look at the stars. Look how they shine for you.</span></p>
-      <script defer src="{{ base_path }}/assets/js/author-motto.js"></script>
+      {% assign motto = "“Look at the stars. Look how they shine for you.”" %}
+      <p class="author__motto">
+        <span class="visually-hidden">{{ motto }}</span>
+        <span aria-hidden="true"><span class="author__motto-text">{{ motto }}</span><span class="author__motto-cursor" hidden>|</span></span>
+      </p>
+      <script>
+        (() => {
+          if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+
+          const motto = document.currentScript.previousElementSibling;
+          const typedText = motto.querySelector(".author__motto-text");
+          const cursor = motto.querySelector(".author__motto-cursor");
+          const message = typedText.textContent;
+          let position = 0;
+
+          typedText.textContent = "";
+          cursor.hidden = false;
+
+          function typeNextCharacter() {
+            typedText.textContent += message.charAt(position);
+            position += 1;
+            if (position < message.length) window.setTimeout(typeNextCharacter, 80);
+          }
+
+          window.setTimeout(typeNextCharacter, 500);
+        })();
+      </script>
     {% endif %}
   </div>
 
