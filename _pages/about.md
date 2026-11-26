@@ -7,21 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-<div style="margin-bottom: -1px;">
-🌱 I’m an undergraduate student in the School of Computer Science and Technology at <a href="https://www.hitsz.edu.cn/index.html">Harbin Institute of Technology, Shenzhen</a>, advised by Prof. <a href="https://homepage.hit.edu.cn/songzhenxi">Zhenxi Song</a> and Prof. <a href="https://homepage.hit.edu.cn/zhuotaotian">Zhuotao Tian</a>. I am going to receive my Bachelor’s degree from Harbin Institute of Technology, Shenzhen in June 2026. And I'm applying for Ph.D. positions for 2026 Fall.
-</div>
+I’m a first-year Ph.D. student at [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), supervised by [Prof. Li Jiang](https://llijiang.github.io/). Before joining CUHK-SZ, I earned my bachelor’s degree from [Harbin Institute of Technology, Shenzhen (HIT-SZ)](https://www.hitsz.edu.cn/index.html).
 
-<div style="margin-bottom: -1px;">
-🧩 My research interests fucos on <b>NeuroAI</b>, <b>Generative Models</b>, and <b>Multimodal Learning</b>.
-</div>
+My research interests lie in computer vision and artificial intelligence, with a focus on **multimodal generation** and **world models**.
 
-<div>
-🤝 I am always open to engaging in discussions and collaborations on <b>AI for Neuroscience</b> and <b>Generative AI</b> projects!
-</div>
+<p class="collaboration-invitation">Feel free to contact me for discussion or collaboration!</p>
 
 ## 🔥 News
 
-- *2025.11* 💥 One Paper <b>(1st Author)</b> submitted to <a href="https://cvpr.thecvf.com/Conferences/2026">CVPR 2026</a>, hoping for a good result!
-
-- *2024.08* 🧠 Participated in <a href="https://cibr.ac.cn/#/home?lang=zh">CIBR</a>-<a href="https://cns.org.cn/">CLS</a>-<a href="https://mcgovern.life.tsinghua.edu.cn/">IDG</a> Joint International Summer School in Neuroscience.
+- 🧠 **Neural Visual Decoding** · Under review
+- 🚗 **Drive World Action Model** · Accepted to **NeurIPS 2026**. [arXiv](https://arxiv.org/abs/2605.28544)
+- 🎬 **Omni-reference Video Generation** · Under review
 

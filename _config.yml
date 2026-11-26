@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.jpg"
+  avatar           : "id.jpg"
   name             : "Jinrui Xu 徐锦锐"
   pronouns         : # example: "he/him"  
-  bio              : "Fourth-year undergraduate student at HITSZ"
+  bio              : "First-year Ph.D. student"
   location         : "Shenzhen, China"
-  employer         : "HITSZ"
+  employer         : "CUHK-SZ"
   uri              : # https://phoenix-bm.github.io
-  email            : "220111026@stu.hit.edu.cn" 
+  email            : "pheonix.baimo@gmail.com"
 
   # Academic websites
   academia         : # URL
